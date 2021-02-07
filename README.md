@@ -3,7 +3,7 @@
  A command-line (CLI) program that lets you manage your todos.
 
 
-[![Todo-CLI](https://youtu.be/1pI1f7Sj0I0)
+[![Todo-CLI](https://res.cloudinary.com/sv-co/image/upload/v1607935139/fullstack-CEF/Todo-CLI/play-video-demo_fp50wp.png)](https://www.youtube.com/watch?v=1pI1f7Sj0I0)
 ## Getting started
 
 1. Install Python: Python is usually installed by default on most modern systems. To check what your currently have, open a terminal and run the following command:
