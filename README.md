@@ -1,1 +1,3 @@
-# Book_Review_WebApp
+# Project 1
+
+Web Programming with Python and JavaScript
